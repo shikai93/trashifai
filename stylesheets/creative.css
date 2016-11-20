@@ -414,3 +414,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.nav-bar-item {
+  display: inline-block;
+  float: right;
+}
