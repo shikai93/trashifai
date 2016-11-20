@@ -1,0 +1,13 @@
+.outerFooter{
+    
+    background-color: black;
+    padding:10px;
+}
+
+.innerFooter {
+    
+    text-align: center;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+}
