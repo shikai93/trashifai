@@ -25,6 +25,12 @@
 .img-responsive {
     
     background-color: rgba(240,95,64,.9);
-    border-radius: 10px;
-    padding: 5px;
+    border-radius:25px;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    padding: 20px;
+    height: inherit;
 }
